@@ -1,0 +1,9 @@
+gender,age_group,total_patients,cardio_cases,stroke_cases
+Female,30-39,18,6,0.0
+Female,40-49,180,62,4.0
+Female,50-59,328,189,8.0
+Female,60-69,115,80,5.0
+Male,30-39,13,2,0.0
+Male,40-49,110,43,1.0
+Male,50-59,168,83,4.0
+Male,60-69,68,42,1.0
